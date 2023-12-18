@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericknathan1&label=Profile%20views&color=0e75b6&style=flat" alt="ericknathan1" /> </p>
 
-- 🔭 Atualmente trabalhando em **um projeto da escola.**
-
 - 🌱 Estou aprendendo **HTML,CSS,JS e outras linguagens**
 
 - 🤝 Estou procurando ajuda com **MYSQL e linguagens backend**
