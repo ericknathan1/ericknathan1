@@ -1,24 +1,51 @@
-<h1 align="center">Bem vindo ao meu perfil (Erick Nathan)</h1>
-<h3 align="center">Sou um estudante na área de TI</h3>
+# Sobre mim!
+:dizzy: Sou um estudante universitário apaixonado por
+tecnologia e empreendedorismo, com forte interesse
+em inovação e desenvolvimento de soluções criativas
+para problemas reais. Atualmente, estou cursando
+Graduação Tecnológica em Análise e Desenvolvimento
+de Sistemas na Faculdade Senac RJ. Tenho experiência
+acadêmica em desenvolvimento web e programação, e
+estou sempre em busca de aprender novas habilidades
+e ampliar meus conhecimentos.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericknathan1&label=Profile%20views&color=0e75b6&style=flat" alt="ericknathan1" /> </p>
+# Conhecimentos
+Atualmente tenho conhecimento nas seguintes áreas da tecnologia:
+| Linguagens de Programação | Desenvolvimento Web | Banco de Dados | Outros |
+| ------ | ------ | ------ | ------ |
+| ![Linguagens de Programação](https://skillicons.dev/icons?i=java,js,python,c) | ![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,bootstrap,php) | ![Banco de Dados](https://skillicons.dev/icons?i=mysql)<img width='48px' height='48px' src="https://cdn-icons-png.freepik.com/512/5968/5968409.png"/> | ![Desenvolvimento Web](https://skillicons.dev/icons?i=figma,photoshop,notion)
 
-- 🌱 Estou aprendendo **HTML,CSS,JS e outras linguagens**
+# IDE
+Atualmente tenho conhecimento das seguintes IDEs:<br/>
+<img width='200px' height='200px' src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png"/>
+<img width='200px' height='200px' src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png"/>
+<img width='200px' height='200px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/>
 
-- 🤝 Estou procurando ajuda com **MYSQL e linguagens backend**
+# Idiomas
+- Atualmente tenho conhecimento em **inglês avançado**
 
-- 📫 Contato **erick.nathan.rj@gmail.com**
+# Principais Projetos
 
-<p align="left">
-</p>
+### LUDILAB
+**Descrição:**
+O LUDILAB é uma plataforma educacional inovadora que combina gamificação, metodologia maker e gestão integrada para criar uma experiência de aprendizado envolvente e eficaz. Totalmente customizável, a plataforma permite que educadores e instituições adaptem o ambiente de aprendizado de acordo com suas necessidades específicas, promovendo um ensino prático e colaborativo. Com o LUDILAB, estudantes podem interagir com materiais didáticos, participar de desafios gamificados e colaborar em projetos hands-on, tudo em um único espaço digital.
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+**Missão:**
+A missão do LUDILAB é transformar a educação tradicional, integrando tecnologia e inovação para oferecer um ambiente de aprendizado dinâmico e personalizado. Ao incentivar a criatividade e a participação ativa dos alunos, o LUDILAB visa preparar os estudantes para os desafios do futuro, promovendo uma educação prática e centrada no aluno.
 
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericknathan1&show_icons=true&locale=en&layout=compact" alt="ericknathan1" /></p>
-<br/>
+### Tech Diet
+**Descrição:**
+O Tech Diet é uma plataforma que une nutrição e gamificação, oferecendo um marketplace onde nutricionistas podem comercializar planos alimentares personalizados. A plataforma torna o processo de seguir uma dieta mais interativo e motivador, permitindo que os usuários acompanhem seu progresso e sejam recompensados por alcançar metas.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknathan1&show_icons=true&locale=en" alt="ericknathan1" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericknathan1&" alt="ericknathan1" /></p>
+**Missão:**
+A missão do Tech Diet é revolucionar a forma como as pessoas aderem a planos alimentares, tornando o processo mais engajador e acessível. A plataforma busca conectar nutricionistas e clientes de maneira eficiente, promovendo hábitos alimentares saudáveis através de uma abordagem lúdica e personalizada.
+
+# Educação
+
+### Escola Técnica Rezende Rammel
+- Formação em Técnico de Informática
+- **Período:** *(2021-2023)*
+
+### Faculdade Senac RJ
+- Graduação em Análise e Desenvolvimento de Sistemas.
+- **Período:** *(2024 - 2026)*
