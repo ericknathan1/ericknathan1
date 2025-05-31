@@ -2,7 +2,7 @@
 ## Skills
 | Programming | Web Development | Database | Others |
 | ------ | ------ | ------ | ------ |
-| ![Linguagens de Programação](https://skillicons.dev/icons?i=java,typescript,python) | ![Desenvolvimento Web](https://skillicons.dev/icons?i=angular,bootstrap,html,css) |<img width='48px' height='48px' src="https://cdn-icons-png.freepik.com/512/5968/5968409.png"/> | ![Desenvolvimento Web](https://skillicons.dev/icons?i=figma)
+| ![Linguagens de Programação](https://skillicons.dev/icons?i=java,js,typescript,python) | ![Desenvolvimento Web](https://skillicons.dev/icons?i=angular,bootstrap,html,css) |<img width='48px' height='48px' src="https://cdn-icons-png.freepik.com/512/5968/5968409.png"/> | ![Desenvolvimento Web](https://skillicons.dev/icons?i=figma)
 
 ## IDEs
 <br/>
